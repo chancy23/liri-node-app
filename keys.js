@@ -1,4 +1,4 @@
-console.log('this is loaded');
+console.log("the keys have been loaded");
 
 //this pulls the IDs from the .env file and exports the API ID (and Secret) to the liri.js file for the variables
 exports.spotify = {
