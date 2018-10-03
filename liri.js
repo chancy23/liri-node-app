@@ -8,6 +8,9 @@ var fs = require("fs");
 //require to get the requests from the apis
 var request = require("request");
 
+//require to get moment.js
+var moment = require("moment");
+
 //require to run the command line prompts
 var inquirer = require("inquirer");
 
@@ -33,15 +36,22 @@ function spotifyThis() {
             return console.log("Error occurred: " + err);
         }
         else {
-            //*******need to do a for loop to loop thorugh the 10 results and display each line below
-            // console.log("this is all the data: " + JSON.stringify(data, null, 2)); //test
-            console.log("Artist(s): " + JSON.stringify(data.tracks.items[0].artists[0].name, null, 2));
-            console.log("Song Title: " + JSON.stringify(data.tracks.items[0].name, null, 2));
-            console.log("Preview: " + JSON.stringify(data.tracks.items[0].preview_url, null, 2));
-            console.log("Album: " + JSON.stringify(data.tracks.items[0].album.name, null, 2));
-        }
+            //console.log("this is all the data: " + JSON.stringify(data, null, 2)); //test
+            var trackData = data.tracks.items;
+
+            for (var i = 0; i < trackData.length; i++) {
+                //add a number for each index (plus 1 to start at 1)
+                console.log(i + 1);
+                //print each required item, use stringify to make the result a string (Parse won't work here?)
+                console.log("Artist(s): " + JSON.stringify(trackData[i].artists[0].name, null, 2));
+                console.log("Song Title: " + JSON.stringify(trackData[i].name, null, 2));
+                console.log("Preview: " + JSON.stringify(trackData[i].preview_url, null, 2));
+                console.log("Album: " + JSON.stringify(trackData[i].album.name, null, 2));
+                console.log("=====================================");
+            };
+        };
     });
-}
+};
 
 //function for movie this command
 function movieThis() {
@@ -69,10 +79,37 @@ function movieThis() {
     });
 };
 
-// //empty array to hold the command and input strings
-// var totalRequest = [];
-// totalRequest.push(command + ", " + input);
-// console.log("this is the request array: " + totalRequest);
+function concertThis() {
+    //get key from key file
+    var bandsKey = keys.bands.id;
+    //request URL to send to the API
+    var bandsRequestURL = "https://rest.bandsintown.com/artists/" + input + "/events?app_id=" + bandsKey + "&date=upcoming";
+
+    request(bandsRequestURL, function (error, response, body) {
+        if (error) {
+            // Print the error if one occurred
+            return console.log("error: " + error); 
+        }
+        else {
+            //creat a variable to hold the parsed body content
+            var parsedBody = JSON.parse(body);
+            //loop through all of the parsed array to get the actual fields and console log them
+            for (var i = 0; i < parsedBody.length; i++) {
+                //create a variable to hold the date in the correct format using moment.js
+                var dateFormatted = moment(parsedBody[i].datetime).format("MM/DD/YYYY");
+                //outputs
+                console.log(i+1);
+                console.log("Venue: " + parsedBody[i].venue.name);
+                console.log("Location: " + parsedBody[i].venue.city + ", " + parsedBody[i].venue.country);
+                console.log("Date: " + dateFormatted);
+                console.log("\r\n");
+                console.log("= = = = = = = = = = = = = = = = = = = = ");
+                
+            };
+            
+        };
+    });
+};
 
 //actually runs the functions based on the command
 if (command === "spotify-this-song") {
@@ -81,10 +118,9 @@ if (command === "spotify-this-song") {
 else if (command === "movie-this") {
     movieThis();
 }
-// else if (command === "concert-this") {
-//     //call the bands in town api
-//     //return concert info
-// }
+else if (command === "concert-this") {
+    concertThis();
+};
 
 // else if (command === "do-what-it-says") {
 //     //have it read the random.txt file and then run search spotify function
@@ -104,17 +140,3 @@ else if (command === "movie-this") {
 // })
 
 
-// test
-//console.log("keys: " + JSON.stringify(keys, null, 2));
-
-
-
-
-
-
-//functions for each command line inquirer
- 
-
-    //if bands
-
-    //if do this thing
