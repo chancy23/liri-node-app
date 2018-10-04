@@ -1,71 +1,50 @@
 # liri-node-app
 
-9. Make it so liri.js can take in one of the following commands:
+This is a node.js based app that takes in commands from the terminal/bash window and outputs the results, based on the Command and the input value.
 
+The commands are:
    * `concert-this`
-
    * `spotify-this-song`
-
    * `movie-this`
-
    * `do-what-it-says`
 
 ### What Each Command Should Do
 
-1. `node liri.js concert-this <artist/band name here>`
+Each of the above commands will output the below information
 
-   * This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal:
+1. `concert-this <artist/band name here>`
 
-     * Name of the venue
+   * Searches the Bands in Town Artist Events API for an artist and renders the following information about each event:
+      * Name of the venue
+      * Venue location
+      * Date of the Event (uses moment.js to format as "MM/DD/YYYY")
 
-     * Venue location
+2. `spotify-this-song "<song name here>"`
 
-     * Date of the Event (use moment to format this as "MM/DD/YYYY")
+   * Searches the Spotify API and shows the following information about the song:
+      * Artist(s)
+      * The song's name
+      * A preview link of the song from Spotify (if available)
+      * The album that the song is from
 
-2. `node liri.js spotify-this-song '<song name here>'`
+   * If no song is provided (input is undefined) then it defaults to "The Sign" by Ace of Base.
 
-   * This will show the following information about the song in your terminal/bash window
+3. `movie-this "<movie name here>"`
 
-     * Artist(s)
+   * Searchs the oMDB API and shows the following information:
+      * Title of the movie.
+      * Year the movie came out.
+      * IMDB Rating of the movie.
+      * Rotten Tomatoes Rating of the movie.
+      * Country where the movie was produced.
+      * Language of the movie.
+      * Plot of the movie.
+      * Actors in the movie.
+  
+   * If the user doesn't type a movie in (input is undefined), the program will output data for the movie 'Mr. Nobody.'
 
-     * The song's name
+4. `do-what-it-says`
 
-     * A preview link of the song from Spotify
+   * LIRI will take the text inside of random.txt file and then use it to call one of LIRI's commands.
+     * The default is set to run `spotify-this-song` for "I Want it That Way," (as follows the text in `random.txt`).
 
-     * The album that the song is from
-
-   * If no song is provided then your program will default to "The Sign" by Ace of Base.
-
-   * You will utilize the [node-spotify-api](https://www.npmjs.com/package/node-spotify-api) package in order to retrieve song information from the Spotify API.
-
-
-3. `node liri.js movie-this '<movie name here>'`
-
-   * This will output the following information to your terminal/bash window:
-
-     ```
-       * Title of the movie.
-       * Year the movie came out.
-       * IMDB Rating of the movie.
-       * Rotten Tomatoes Rating of the movie.
-       * Country where the movie was produced.
-       * Language of the movie.
-       * Plot of the movie.
-       * Actors in the movie.
-     ```
-
-   * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
-
-     * If you haven't watched "Mr. Nobody," then you should: <http://www.imdb.com/title/tt0485947/>
-
-     * It's on Netflix!
-
-   * You'll use the request package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use `trilogy`.
-
-4. `node liri.js do-what-it-says`
-
-   * Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
-
-     * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
-
-     * Edit the text in random.txt to test out the feature for movie-this and my-tweets
