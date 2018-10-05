@@ -1,0 +1,303 @@
+1
+Artist: "Kings of the River"
+Song Title: "Friends in Low Places"
+Preview: "https://p.scdn.co/mp3-preview/c5dbc8e44c4c25aa6e8102bac5d37165bab0e70b?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "The Favorites of Garth Brooks"
+= = = = = = = = = = = = = = = = = = = =2
+Artist: "Brooks Jefferson"
+Song Title: "Friends in Low Places"
+Preview: "https://p.scdn.co/mp3-preview/38200d173541d14389aa3e110028dcb6874b77db?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "Strummin' On Garth"
+= = = = = = = = = = = = = = = = = = = =3
+Artist: "The Deep Dixie Boys"
+Song Title: "Friends in Low Places"
+Preview: "https://p.scdn.co/mp3-preview/20ee63e4a0d8d21a2de6987acc0dede51825237d?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "Only a Country Heart"
+= = = = = = = = = = = = = = = = = = = =4
+Artist: "Home Free"
+Song Title: "Friends in Low Places"
+Preview: "https://p.scdn.co/mp3-preview/1cb6ce8330f96534feb42f8f4fd94a52840f7def?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "Country Evolution"
+= = = = = = = = = = = = = = = = = = = =5
+Artist: "Elvis-Kingtinued"
+Song Title: "I've Got Friends in Low Places"
+Preview: "https://p.scdn.co/mp3-preview/56c81a4fbf4bfaf5a1e99de497d5e50cca225d72?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "The Greatest Elvis Songs, You've Never Heard!"
+= = = = = = = = = = = = = = = = = = = =6
+Artist: "Mark Chesnutt"
+Song Title: "Friends In Low Places"
+Preview: null
+Album: "Too Cold At Home"
+= = = = = = = = = = = = = = = = = = = =7
+Artist: "On The Plains"
+Song Title: "Friends in Low Places"
+Preview: "https://p.scdn.co/mp3-preview/1243b580e8b596d64859f48c614b548d593acfc5?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "High Drifter"
+= = = = = = = = = = = = = = = = = = = =8
+Artist: "Country Brook"
+Song Title: "Friends In Low Places"
+Preview: "https://p.scdn.co/mp3-preview/c4e5ec3185f07b222ca7b8a29e06fe68d8979762?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "Friends In Low Places"
+= = = = = = = = = = = = = = = = = = = =9
+Artist: "The Stock Sprinters"
+Song Title: "Friends in Low Places (From \"Driver: Joe Nemechek\")"
+Preview: "https://p.scdn.co/mp3-preview/0545c4361094891838aa5e24ebfad75f5222853c?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "Nascar Drivers Introduction Soundtrack"
+= = = = = = = = = = = = = = = = = = = =10
+Artist: "Dylan Miller"
+Song Title: "Friends in Low Places"
+Preview: "https://p.scdn.co/mp3-preview/4473c7ea2b9dec4a64b74bea05a11f51917b5a3b?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "Friends in Low Places"
+= = = = = = = = = = = = = = = = = = = =Artist: "Ace of Base"
+Song Title: "The Sign"
+Preview: "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "The Sign (US Album) [Remastered]"
+= = = = = = = = = = = = = = = = = = = =
+Title: Cocktail
+Released in: 1988
+IMDB Rating: 5.8
+Rotten Tomatoes Rating: 5%
+Country of Production: USA
+Languages: English, Spanish Sign Language
+Plot: A talented New York City bartender takes a job at a bar in Jamaica and falls in love.
+Actors: Tom Cruise, Bryan Brown, Elisabeth Shue, Lisa Banes
+= = = = = = = = = = = = = = = = = = = = 
+Title: Mr. Nobody
+Released in: 2009
+IMDB Rating: 7.9
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Languages: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+= = = = = = = = = = = = = = = = = = = = 1
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 10/09/2018
+= = = = = = = = = = = = = = = = = = = = 2
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 10/12/2018
+= = = = = = = = = = = = = = = = = = = = 3
+Venue: WIN Entertainment Centre
+Location: Wollongong, Australia
+Date: 10/16/2018
+= = = = = = = = = = = = = = = = = = = = 4
+Venue: Qudos Bank Arena
+Location: Sydney Nsw, Australia
+Date: 10/18/2018
+= = = = = = = = = = = = = = = = = = = = 5
+Venue: Adelaide Entertainment Centre
+Location: Hindmarsh, Australia
+Date: 10/20/2018
+= = = = = = = = = = = = = = = = = = = = 6
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 10/31/2018
+= = = = = = = = = = = = = = = = = = = = 7
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 11/02/2018
+= = = = = = = = = = = = = = = = = = = = 8
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 11/03/2018
+= = = = = = = = = = = = = = = = = = = = 9
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 11/07/2018
+= = = = = = = = = = = = = = = = = = = = 10
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 11/09/2018
+= = = = = = = = = = = = = = = = = = = = 11
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 11/10/2018
+= = = = = = = = = = = = = = = = = = = = 12
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 11/14/2018
+= = = = = = = = = = = = = = = = = = = = 13
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 11/16/2018
+= = = = = = = = = = = = = = = = = = = = 14
+Venue: Monte Carlo Hotel And Casino
+Location: Las Vegas, United States
+Date: 11/17/2018
+= = = = = = = = = = = = = = = = = = = = 15
+Venue: Germain Arena
+Location: Estero, United States
+Date: 01/17/2019
+= = = = = = = = = = = = = = = = = = = = 16
+Venue: BB&T Center
+Location: Sunrise, United States
+Date: 01/19/2019
+= = = = = = = = = = = = = = = = = = = = 17
+Venue: Amway Center
+Location: Orlando, United States
+Date: 01/21/2019
+= = = = = = = = = = = = = = = = = = = = 18
+Venue: Jacksonville Veterans Memorial Arena
+Location: Jacksonville, United States
+Date: 01/23/2019
+= = = = = = = = = = = = = = = = = = = = 19
+Venue: Infinite Energy Arena
+Location: Duluth, United States
+Date: 01/25/2019
+= = = = = = = = = = = = = = = = = = = = 20
+Venue: PNC Arena
+Location: Raleigh, United States
+Date: 01/27/2019
+= = = = = = = = = = = = = = = = = = = = 21
+Venue: Spectrum Center
+Location: Charlotte, United States
+Date: 01/29/2019
+= = = = = = = = = = = = = = = = = = = = 22
+Venue: Bridgestone Arena
+Location: Nashville, United States
+Date: 01/31/2019
+= = = = = = = = = = = = = = = = = = = = 23
+Venue: Mississippi Coast Coliseum
+Location: Biloxi, United States
+Date: 02/02/2019
+= = = = = = = = = = = = = = = = = = = = 24
+Venue: KFC Yum! Center
+Location: Louisville, United States
+Date: 02/04/2019
+= = = = = = = = = = = = = = = = = = = = 25
+Venue: Quicken Loans Arena
+Location: Cleveland, United States
+Date: 02/06/2019
+= = = = = = = = = = = = = = = = = = = = 26
+Venue: United Center
+Location: Chicago, United States
+Date: 02/08/2019
+= = = = = = = = = = = = = = = = = = = = 27
+Venue: Nationwide Arena
+Location: Columbus, United States
+Date: 02/10/2019
+= = = = = = = = = = = = = = = = = = = = 28
+Venue: Little Caesars Arena
+Location: Detroit, United States
+Date: 02/12/2019
+= = = = = = = = = = = = = = = = = = = = 29
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis, United States
+Date: 02/14/2019
+= = = = = = = = = = = = = = = = = = = = 30
+Venue: PPG Paints Arena
+Location: Pittsburgh, United States
+Date: 04/18/2019
+= = = = = = = = = = = = = = = = = = = = 31
+Venue: Wells Fargo Center
+Location: Philadelphia, United States
+Date: 04/20/2019
+= = = = = = = = = = = = = = = = = = = = 32
+Venue: Scotiabank Arena
+Location: Toronto, Canada
+Date: 04/22/2019
+= = = = = = = = = = = = = = = = = = = = 33
+Venue: Canadian Tire Centre
+Location: Kanata, Canada
+Date: 04/24/2019
+= = = = = = = = = = = = = = = = = = = = 34
+Venue: KeyBank Center
+Location: Buffalo, United States
+Date: 04/26/2019
+= = = = = = = = = = = = = = = = = = = = 35
+Venue: TD Garden
+Location: Boston, United States
+Date: 04/28/2019
+= = = = = = = = = = = = = = = = = = = = 36
+Venue: MassMutual Center
+Location: Springfield, United States
+Date: 04/30/2019
+= = = = = = = = = = = = = = = = = = = = 37
+Venue: Barclays Center
+Location: Brooklyn, United States
+Date: 05/02/2019
+= = = = = = = = = = = = = = = = = = = = 38
+Venue: Prudential Center
+Location: Newark, United States
+Date: 05/03/2019
+= = = = = = = = = = = = = = = = = = = = 39
+Venue: Van Andel Arena
+Location: Grand Rapids, United States
+Date: 05/08/2019
+= = = = = = = = = = = = = = = = = = = = 40
+Venue: Enterprise Center
+Location: Saint Louis, United States
+Date: 05/10/2019
+= = = = = = = = = = = = = = = = = = = = 41
+Venue: Fiserv Forum
+Location: Milwaukee, United States
+Date: 05/12/2019
+= = = = = = = = = = = = = = = = = = = = 42
+Venue: CenturyLink Center Omaha
+Location: Omaha, United States
+Date: 05/14/2019
+= = = = = = = = = = = = = = = = = = = = 43
+Venue: Denny Sanford Premier Center
+Location: Sioux Falls, United States
+Date: 05/16/2019
+= = = = = = = = = = = = = = = = = = = = 44
+Venue: Xcel Energy Center
+Location: St Paul, United States
+Date: 05/18/2019
+= = = = = = = = = = = = = = = = = = = = 1
+Artist: "Backstreet Boys"
+Song Title: "I Want It That Way"
+Preview: "https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "The Hits--Chapter One"
+= = = = = = = = = = = = = = = = = = = =2
+Artist: "Backstreet Boys"
+Song Title: "I Want It That Way"
+Preview: "https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "Millennium"
+= = = = = = = = = = = = = = = = = = = =3
+Artist: "Anthem Lights"
+Song Title: "I Want It That Way"
+Preview: "https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "Covers Part IV"
+= = = = = = = = = = = = = = = = = = = =4
+Artist: "Manuel Costa"
+Song Title: "I Want It That Way"
+Preview: "https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "I Want It That Way"
+= = = = = = = = = = = = = = = = = = = =5
+Artist: "Dynamite Boy"
+Song Title: "I Want It That Way"
+Preview: null
+Album: "Punk Goes Pop"
+= = = = = = = = = = = = = = = = = = = =6
+Artist: "\"Weird Al\" Yankovic"
+Song Title: "Ebay (Parody of \"I Want It That Way\" by the Backstreet Boys)"
+Preview: "https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "Poodle Hat"
+= = = = = = = = = = = = = = = = = = = =7
+Artist: "Backstreet Boys"
+Song Title: "I Want It That Way"
+Preview: "https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "90 Sweet 90s Hits!"
+= = = = = = = = = = = = = = = = = = = =8
+Artist: "Backstreet Boys"
+Song Title: "I Want It That Way"
+Preview: "https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "NKOTBSB"
+= = = = = = = = = = = = = = = = = = = =9
+Artist: "Glee Cast"
+Song Title: "Bye Bye Bye / I Want It That Way (Glee Cast Version)"
+Preview: "https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "Bye Bye Bye / I Want It That Way (Glee Cast Version)"
+= = = = = = = = = = = = = = = = = = = =10
+Artist: "Boyce Avenue"
+Song Title: "I Want It That Way"
+Preview: "https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "Cover Sessions, Vol. 2"
+= = = = = = = = = = = = = = = = = = = =Artist: "Ace of Base"
+Song Title: "The Sign"
+Preview: "https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=60992acdb7fa47968fbaad8f9019085b"
+Album: "The Sign (US Album) [Remastered]"
+= = = = = = = = = = = = = = = = = = = =
