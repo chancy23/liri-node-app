@@ -43,7 +43,7 @@ Each of the above commands will output the below information
       * Language of the movie.
       * Plot of the movie.
       * Actors in the movie.
-        * Screenshot of command and output: "../screenshots/movieThis_screenshot.png". 
+        * Screenshot of command and output: [Click here to view screenshot](screenshots/movieThis_screenshot.png) 
   
    * If the user doesn't type a movie in (input is undefined), the program will output data for the movie 'Mr. Nobody.'
     * Screenshot of command and output: [Click here to view screenshot](screenshots/movieThis_blank_screenshot.png)
