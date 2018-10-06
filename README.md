@@ -18,7 +18,7 @@ Each of the above commands will output the below information
       * Name of the venue
       * Venue location
       * Date of the Event (uses moment.js to format as "MM/DD/YYYY")
-       * Screenshot of command and output: "../screenshots/concertThis_screenshot.png"
+       * Screenshot of command and output:  [Click here to view screenshot](screenshots/concertThis_screenshot.png)
 
 2. `spotify-this-song "<song name here>"`
 
@@ -30,7 +30,7 @@ Each of the above commands will output the below information
         * Screenshot of command and output: "../screenshots/spotifyThisSong_screenshot.png"
 
    * If no song is provided (input is undefined) then it defaults to "The Sign" by Ace of Base.
-    * Screenshot of command and output: "../screenshots/spotifyThisSong_blank.png"
+    * Screenshot of command and output:[Click here to view screenshot](screenshots/spotifyThisSong_blank.png)
 
 3. `movie-this "<movie name here>"`
 
@@ -46,13 +46,13 @@ Each of the above commands will output the below information
         * Screenshot of command and output: "../screenshots/movieThis_screenshot.png". 
   
    * If the user doesn't type a movie in (input is undefined), the program will output data for the movie 'Mr. Nobody.'
-    * Screenshot of command and output: "../screenshots/movieThis_blank_screenshot.png". 
+    * Screenshot of command and output: [Click here to view screenshot](screenshots/movieThis_blank_screenshot.png)
 
 4. `do-what-it-says`
 
    * LIRI will take the text inside of random.txt file and then use it to call one of LIRI's commands.
      * The default is set to run `spotify-this-song` for "I Want it That Way," (as follows the text in `random.txt`).
-     * Screenshot of command and output: "../screenshots/doWhatItSays_screenshot.png". 
+     * Screenshot of command and output: [Click here to view screenshot](screenshots/doWhatItSays_screenshot.png)
 
 5. You can also checkout out the log.txt file for previous searches.
 
