@@ -27,7 +27,7 @@ Each of the above commands will output the below information
       * The song's name
       * A preview link of the song from Spotify (if available)
       * The album that the song is from
-        * Screenshot of command and output: "../screenshots/spotifyThisSong_screenshot.png"
+        * Screenshot of command and output: [Click here to view screenshot](screenshots/spotifyThisSong_screenshot.png)
 
    * If no song is provided (input is undefined) then it defaults to "The Sign" by Ace of Base.
     * Screenshot of command and output:[Click here to view screenshot](screenshots/spotifyThisSong_blank.png)
