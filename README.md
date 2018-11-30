@@ -2,6 +2,8 @@
 
 This is a node.js based app that takes in commands from the terminal/bash window and outputs the results, based on the Command and the input value.
 
+Video Demo of each of the commands: https://drive.google.com/open?id=1aOPRhblRlubFo72nejcK9uiSEEcdRWOe
+
 The commands are:
    * `concert-this`
    * `spotify-this-song`
@@ -17,7 +19,7 @@ Each of the above commands will output the below information
    * Searches the Bands in Town Artist Events API for an artist and renders the following information about each event:
       * Name of the venue
       * Venue location
-      * Date of the Event (uses moment.js to format as "MM/DD/YYYY")
+      * Date of the Event (uses moment.js to format as "MM/DD/YYYY")  
        * Screenshot of command and output:  [Click here to view screenshot](screenshots/concertThis_screenshot.png)
 
 2. `spotify-this-song "<song name here>"`
@@ -55,4 +57,12 @@ Each of the above commands will output the below information
      * Screenshot of command and output: [Click here to view screenshot](screenshots/doWhatItSays_screenshot.png)
 
 5. You can also checkout out the log.txt file for previous searches.
+
+## Technologies Used:
+- NodeJS
+- Dotenv NPM
+- Request NPM
+- MomentJS
+- API's (Spotify, Bands In Town, oMDB)
+
 
