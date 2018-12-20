@@ -2,7 +2,7 @@
 
 This is a node.js based app that takes in commands from the terminal/bash window and outputs the results, based on the Command and the input value.
 
-Video Demo of each of the commands: https://drive.google.com/open?id=1aOPRhblRlubFo72nejcK9uiSEEcdRWOe
+Video Demo of each of the commands: https://drive.google.com/file/d/1aOPRhblRlubFo72nejcK9uiSEEcdRWOe/view?usp=sharing
 
 The commands are:
    * `concert-this`
