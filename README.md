@@ -30,7 +30,7 @@ Each of the above commands will output the below information
      * The song's name
      * A preview link of the song from Spotify (if available)
      * The album that the song is from
-     * [Click here to view screenshot](screenshots/SpotifyThisSong_screenshot.png)
+     * [Click here to view screenshot](screenshots/spotifyThisSong_screenshot.png)
 
 * If no song is provided (input is undefined) then it defaults to "The Sign" by Ace of Base.
 * [Click here to view screenshot](screenshots/SpotifyThisSong_blank.png)
